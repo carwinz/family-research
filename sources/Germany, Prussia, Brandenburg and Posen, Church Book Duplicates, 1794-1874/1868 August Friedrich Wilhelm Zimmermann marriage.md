@@ -16,3 +16,5 @@ Spouse's Father's Name:	Wilhelm Aug Schulz
 Volume:	983
 Volume Date Range:	983, 1850-1874
 Record Number: 798
+
+https://www.familysearch.org/ark:/61903/1:1:J7VW-SYQ
