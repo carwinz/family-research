@@ -13,3 +13,5 @@ Mother's Name: Wilhelmine Christine Schulz
 Volume:	1013, 1014
 Volume Date Range: 1013, 1014, 1840-1874
 Record Number: 2397
+
+![image](./1871%20Anna%20Ernestine%20Ulrike%20Zimmermann%20baptism.jpg)

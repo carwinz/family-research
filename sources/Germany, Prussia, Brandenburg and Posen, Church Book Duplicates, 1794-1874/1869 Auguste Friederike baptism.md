@@ -13,3 +13,5 @@ Mother's Name: Wilhelmine Schulz
 Volume:	983
 Volume Date Range: 983, 1850-1874
 Record Number: 810
+
+![image](./1869%20Auguste%20Friederike%20baptism.jpg)

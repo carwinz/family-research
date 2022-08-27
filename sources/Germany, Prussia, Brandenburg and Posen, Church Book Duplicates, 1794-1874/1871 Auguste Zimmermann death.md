@@ -14,3 +14,5 @@ Father's Name	Ernst Zimmermann
 Volume	1013, 1014
 Volume Date Range	1013, 1014, 1840-1874
 Record Number	2423
+
+![image](./1871%20Auguste%20Zimmermann%20death.jpg)

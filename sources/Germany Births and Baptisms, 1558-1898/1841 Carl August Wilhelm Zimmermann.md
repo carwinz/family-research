@@ -15,6 +15,8 @@ https://www.familysearch.org/ark:/61903/1:1:NT79-5MG
 
 ## Why
 
+Very close dates to family records. Fairly close match on the name.
+
 Stettin matches places for the birth of 3 children of Ernst August Friedrich Zimmermann
 
 see also wikipedia matches for "Wilhelm Zimmermann"

@@ -14,3 +14,5 @@ Page: 80
 Volume: 982
 Volume Date Range: 982, 1836-1849
 Record Number: 4252
+
+![image](./1845%20Wilhelmine%20Christine%20baptism.jpg)
