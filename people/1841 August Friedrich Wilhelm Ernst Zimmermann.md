@@ -1,10 +1,18 @@
+
 ## Name
+
+In his later years, he was referred to as "Ernst Zimmermann". However, there a fair bit of variation in his name in various records.
+
+When he was married, [church records](../sources/Germany,%20Prussia,%20Brandenburg%20and%20Posen,%20Church%20Book%20Duplicates,%201794-1874/1868%20August%20Friedrich%20Wilhelm%20Zimmermann%20marriage.md) called him `August Friedrich Wilhelm Zimmermann`, but [German marriage records](../sources/Germany%20Marriages,%201558-1929/1868%20August%20Friedrich%20Zimmermann%20marriage.md) called him `August Friedrich Zimmermann`.
 
 
 
 ## Date of birth
 
-His date of birth is unknown 
+His date of birth is unknown
+
+
+## Locations
 
 
 ## Timeline
