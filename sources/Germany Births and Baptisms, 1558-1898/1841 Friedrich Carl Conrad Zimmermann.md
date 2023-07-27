@@ -10,3 +10,9 @@ Event Place	Güstrow, Mecklenburg-Schwerin, Deutschland
 Event Place (Original)	Güstrow, Mecklenburg-Schwerin, Germany
 
 https://www.familysearch.org/ark:/61903/1:1:NZHZ-LWL
+
+## Why this could be Ernst
+
+* Father's name is `Christian Fridrich Wilhelm Zimmermann` and his marriage record lists "Christ Zimmermann" as his parent
+* The christening is 5 days after his birth date
+* Güstrow, Mecklenburg-Schwerin, Deutschland is also in the general area of where he married
