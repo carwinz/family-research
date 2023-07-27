@@ -2,7 +2,7 @@
 
 Ernst is the oldest known relative of the Zimmermann family who migrated from Germany to Queensland in 1871.
 
-Not much is certain about his early years. He may have had 3 children with Emilie Baumert/Baumann when he was 18-22 years old. Note that none of this is mentioned in family records.
+Not much is certain about his early years. He may have had 3 children with Emilie Baumert/Baumann when he was 18-22 years old. Note that this is not mentioned in family records, but it's probably not something religious people of those times would have been proud of either!?
 
 He was married in 1868 to Wilhelmine Christine Schulz. They had two daughters, Auguste and Anna, but Auguste died young.
 
