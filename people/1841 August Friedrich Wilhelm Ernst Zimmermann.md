@@ -58,7 +58,7 @@ Another possible [baptimal record match](../sources/Germany%20Births%20and%20Bap
 
 When he was married, he was listed as `Evangelische` in [church records](../sources/Germany,%20Prussia,%20Brandenburg%20and%20Posen,%20Church%20Book%20Duplicates,%201794-1874/1868%20August%20Friedrich%20Wilhelm%20Zimmermann%20marriage.md)
 
-It seems he was a little naughty, given that he was married in Nov 1868 and his first child was born by June 1869.
+It seems he was a little naughty, given that he was married mid-Nov 1868 and had a child born on 22nd of May 1869.
 
 ## Occupation
 
