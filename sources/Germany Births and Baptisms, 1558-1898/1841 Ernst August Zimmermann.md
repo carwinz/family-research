@@ -10,7 +10,7 @@ Mother's name: Margaretha Senner
 
 https://www.findmypast.com.au/transcript?id=R_718333720
 
-## Why
+## Why this could be Ernst
 
 * Names and birth year line up
 * Baptism date seems off
