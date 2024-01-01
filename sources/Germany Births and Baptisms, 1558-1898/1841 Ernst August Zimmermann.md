@@ -18,4 +18,4 @@ https://www.findmypast.com.au/transcript?id=R_718333720
 ## Why this might not be Ernst
 
 * His parents names are not found anywhere else
-* Aachen is a 763km from Prenzlau
+* Aachen is 763km from Prenzlau; sure the army moves people around...
