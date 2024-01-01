@@ -13,5 +13,9 @@ https://www.findmypast.com.au/transcript?id=R_718333720
 ## Why this could be Ernst
 
 * Names and birth year line up
-* Baptism date seems off
-* Parents names are very different
+* Baptism date is ~5 months different from his DOB in family records
+
+## Why this might not be Ernst
+
+* His parents names are not found anywhere else
+* Aachen is a 763km from Prenzlau
