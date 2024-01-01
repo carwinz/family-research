@@ -12,5 +12,6 @@
 
 https://www.familysearch.org/ark:/61903/1:1:NPNP-66R?from=lynx1UIV8&treeref=MZDF-24H
 
+## This could be Ernst's child
 
-1861 Martha Emilie Ottilie Zimmermann.md
+See also his sisters (sources/Germany Births and Baptisms, 1558-1898/1859 Christiane Auguste Marie Zimmermann.md) and (sources/Germany Births and Baptisms, 1558-1898/1861 Martha Emilie Ottilie Zimmermann.md)
