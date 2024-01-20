@@ -67,7 +67,19 @@ Possible mothers:
 
 Shipping records [here](../sources/Hamburg%20Passenger%20Lists%2C%201850-1934/Ernst%20Zimmermann.md) and [here](../sources/Queensland%2C%20Australia%2C%20Passenger%20Lists%2C%201848-1912/Ernst%20Zimmermann.md)
 
+It was an "assisted immigration"
+
 More details are available at the QLD state library and in a book called "Emigrants from Hamburg to Australia 1871" compiled by Eric and Rosemary Kopittke.
+
+## Naturalisation
+
+General blurb from state library: "Non-British migrants did not have the same rights and priviledges at British settlers. Legislation in 1849 formalised the process of naturalisation, giving settlers most of the rights their fellow British colonists enjoyed, including the right to own land.
+
+[Ernst's record](../sources/Queensland%20Naturalisation%20Records%201851-1905/1875%20Ernst%20Zimmermann%20naturalisation%20record.jpg)
+
+## Land records
+
+TODO
 
 ## Religion
 
