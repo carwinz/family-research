@@ -36,15 +36,13 @@ Family records say 13 May 1841, but nothing has been found to corroborate that d
 
 A possible [christening record](../sources/Germany%20Births%20and%20Baptisms,%201558-1898/1841%20Carl%20August%20Wilhelm%20Zimmermann.md) puts his birth at 16 May 1841.
 
-There is a possible [baptimal record match](../sources/Germany%20Births%20and%20Baptisms,%201558-1898/1841%20Ernst%20August%20Zimmermann.md) with the Prussian infantry.
-
 He is recorded at 27yo when he was married on 15 Nov 1868, making his year of birth either 1841 or 1842.
 
 He is recorded at 30yo in shipping records for the voyage that departed 1 Dec 1871.
 
 ## Marriage
 
-[German marriage records](../sources/Germany%20Marriages,%201558-1929/1868%20August%20Friedrich%20Zimmermann%20marriage.md) seem to indicate a civil marriage on 8 Nov 1868, with [Church records](../sources/Germany%2C%20Lutheran%20Baptisms%2C%20Marriages%2C%20and%20Burials%2C%201500-1971/1869%20Ernst%20and%20Wilhelmine%20marriage.md) and [other church records](../sources/Germany,%20Prussia,%20Brandenburg%20and%20Posen,%20Church%20Book%20Duplicates,%201794-1874/1868%20August%20Friedrich%20Wilhelm%20Zimmermann%20marriage.md) putting the church wedding one week later on 15 Nov 1868.
+[German marriage records](../sources/Germany%20Marriages,%201558-1929/1868%20August%20Friedrich%20Zimmermann%20marriage.md) seem to indicate a civil marriage on 8 Nov 1868, with [church records](../sources/Germany%2C%20Lutheran%20Baptisms%2C%20Marriages%2C%20and%20Burials%2C%201500-1971/1869%20Ernst%20and%20Wilhelmine%20marriage.md) and [other church records](../sources/Germany,%20Prussia,%20Brandenburg%20and%20Posen,%20Church%20Book%20Duplicates,%201794-1874/1868%20August%20Friedrich%20Wilhelm%20Zimmermann%20marriage.md) putting the church wedding one week later on 15 Nov 1868.
 
 
 ## Parents
@@ -102,7 +100,7 @@ TODO
 
 ## Electoral roll
 
-[info](../sources/Australia%2C%20Electoral%20Rolls%2C%201903-1980/1919%20Ernest%20Zimmermann.md)
+[1919](../sources/Australia%2C%20Electoral%20Rolls%2C%201903-1980/1919%20Ernest%20Zimmermann.md)
 
 ## Events
 

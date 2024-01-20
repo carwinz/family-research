@@ -16,3 +16,6 @@
     Certificate Number	90
 
 ![image](./1878%20Ernst%20August%20Zimmermann.jpg)
+
+
+I think this rules out western Ernst -- marriage date and wifes name is different
