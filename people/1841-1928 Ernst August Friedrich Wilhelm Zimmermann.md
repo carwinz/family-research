@@ -42,7 +42,7 @@ He is recorded at 30yo in shipping records for the voyage that departed 1 Dec 18
 
 ## Marriage
 
-[German marriage records](../sources/Germany%20Marriages,%201558-1929/1868%20August%20Friedrich%20Zimmermann%20marriage.md) seem to indicate a civil marriage on 8 Nov 1868, with [church records](../sources/Germany%2C%20Lutheran%20Baptisms%2C%20Marriages%2C%20and%20Burials%2C%201500-1971/1869%20Ernst%20and%20Wilhelmine%20marriage.md) and [other church records](../sources/Germany,%20Prussia,%20Brandenburg%20and%20Posen,%20Church%20Book%20Duplicates,%201794-1874/1868%20August%20Friedrich%20Wilhelm%20Zimmermann%20marriage.md) putting the church wedding one week later on 15 Nov 1868.
+[German marriage records](../sources/Germany%20Marriages,%201558-1929/1868%20August%20Friedrich%20Zimmermann%20marriage.md) seem to indicate a civil marriage on 8 Nov 1868, with [church records](../sources/Germany%2C%20Lutheran%20Baptisms%2C%20Marriages%2C%20and%20Burials%2C%201500-1971/1869%20Ernst%20and%20Wilhelmine%20marriage.md) and [other church records](../sources/Germany,%20Prussia,%20Brandenburg%20and%20Posen,%20Church%20Book%20Duplicates,%201794-1874/1868%20August%20Friedrich%20Wilhelm%20Zimmermann%20marriage.md) putting the church wedding one week later on 15 Nov 1868. For good measure, another [record](../sources/Deutschland%2C%20ausgew%C3%A4hlte%20evangelische%20Kirchenb%C3%BCcher%201500-1971/1868%20August%20Friedrich%20Wilhelm%20Zimmermann%20marriage.md).
 
 
 ## Parents
@@ -104,8 +104,7 @@ TODO
 
 ## Events
 
-
-15 Nov 1868 He is called `August Friedrich Wilhelm Zimmermann` when he marries `Wilhelmine Christ Schulz`. His father's name is `Christ Zimmermann`. The marriage happened in Menkin, Brüssow, Prenzlau, Brandenburg, Deutschland. His age is recorded as 27, putting his birth year around 1841.
+15 Nov 1868 He he marries `Wilhelmine Christ Schulz`. He was called `August Friedrich Wilhelm Zimmermann` in church records, but German marriage records called him `August Friedrich Zimmermann`.  His father's name is `Christ Zimmermann` from Schenkenberg, but he is deceased. The marriage happened in Menkin, Brüssow, Prenzlau, Brandenburg, Deutschland. His age is recorded as 27, putting his birth year around 1841.
 
 6 Jun 1869 He is called `Ernst Zimmermann` and listed as the father of `Auguste Friederike` at her baptism. She is recorded as being born on 22 May 1869. Her mother is listed as `Wilhelmine Schulz`. The baptism took place in Menkin, Brüssow, Prenzlau, Brandenburg, Deutschland
 
