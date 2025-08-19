@@ -3,3 +3,5 @@ In church records of Ernst's marriage, he is called `weiland Arbeiter Christ. Zi
 
 
 In [other church records](../sources/Germany,%20Lutheran%20Baptisms,%20Marriages,%20and%20Burials,%201500-1971/1869%20Ernst%20and%20Wilhelmine%20marriage.md) he is  `Christian Zimmermann in schenkenberg`
+
+Perhaps schenkenberg refers to "Groß Schenkenberg", a municipality in the district of Herzogtum Lauenburg in Schleswig-Holstein, southwest of Lübeck?
